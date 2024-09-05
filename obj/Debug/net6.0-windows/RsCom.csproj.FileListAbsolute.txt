@@ -1,0 +1,17 @@
+C:\Users\marek\source\repos\RsCom\RsCom\bin\Debug\net6.0-windows\RsCom.deps.json
+C:\Users\marek\source\repos\RsCom\RsCom\bin\Debug\net6.0-windows\RsCom.dll
+C:\Users\marek\source\repos\RsCom\RsCom\bin\Debug\net6.0-windows\RsCom.pdb
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.csproj.AssemblyReference.cache
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsComBox.g.cs
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom_MarkupCompile.cache
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom_MarkupCompile.lref
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsComBox.baml
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.g.resources
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.AssemblyInfoInputs.cache
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.AssemblyInfo.cs
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.csproj.CoreCompileInputs.cache
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.dll
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\refint\RsCom.dll
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\RsCom.pdb
+C:\Users\marek\source\repos\RsCom\RsCom\obj\Debug\net6.0-windows\ref\RsCom.dll
